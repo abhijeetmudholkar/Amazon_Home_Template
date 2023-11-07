@@ -82,6 +82,7 @@
 .nav-search:hover{
     border: 2px solid orangered;
 }
+/* .search-select + .search-input + .search-icon:hover{border: 2px solid orangered;} */
 
 /* box 4 */
 span{
